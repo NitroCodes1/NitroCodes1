@@ -8,7 +8,7 @@ With a goal of becoming a Software Developer I am embarking upon this odyssey of
 
 * 🌍  I'm based in London
 * 🚀  I'm currently working on [my portfolio website, coming very soon!](http://www.nirushan.co.uk)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and working towards my AZ-900 certification
 * 🤝  I'm open to collaborating on exciting projects as a Front-End developer
 
 ### Skills
