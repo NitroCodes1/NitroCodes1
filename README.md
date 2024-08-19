@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate Software Developer-in-the-Making on a Continuous Learning Journey 👨🏻‍🎓
 ------------------------------------------------------------------------------------
-
-With a goal of becoming a Software Developer I am embarking upon this odyssey of learning👨‍💻. In the perilous realms of error messages and the thrilling landscapes of code, I am on a relentless quest to master the art of programming.
-
 * 🌍  I'm based in London
 * 🚀  I'm currently working on [my portfolio website, coming very soon!](http://www.nirushan.co.uk)
 * 🧠  I'm learning Python and working towards my AWS SAA Certification
